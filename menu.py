@@ -51,8 +51,8 @@ class Menu:
         attack_index = index - 1
 
         sure = self.sure('Are you sure about attacking ' + str(devices[attack_index]['host_name']) + 
-            ' with ip = ' + str(devices[attack_index]['ip']) +
-            ' and mac = ' + str(devices[index]['mac']) + '?')
+            '\n\t with ip = ' + str(devices[attack_index]['ip']) +
+            '\n\t and mac = ' + str(devices[attack_index]['mac']) + ' ?')
 
         if sure:
             # attack
