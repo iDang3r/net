@@ -38,4 +38,3 @@
 ### Итог
 
 Успешное испытание на соседях в общежитии... :-)
-<img width="706" alt="image" src="https://user-images.githubusercontent.com/36307926/208307475-3009e54b-4261-46d3-a419-89ae848c9091.png">
